@@ -33,9 +33,8 @@ Follow these steps to load your plan:
 
 | Action | Result |
 | :--- | :--- |
-| **OTWÓRZ** | Opens the specific attack command in Tribal Wars. |
+| **OTWÓRZ** |  Automatically open needer order in Tribal Wars (remember to verify data!). |
 | **✅ Checkbox** | Marks the attack as sent. |
-| **Otwórz** | Automatically open needer order in Tribal Wars (remember to verify data!). |
 | **Nowa rozpiska** | Clears all saved data and allows you to upload a new plan. |
 
 > [!TIP]
