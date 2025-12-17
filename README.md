@@ -34,7 +34,7 @@ Follow these steps to load your plan:
 | Action | Result |
 | :--- | :--- |
 | **OTWÓRZ** | Opens the specific attack command in Tribal Wars. |
-| **✅ Checkbox** | Marks the attack as sent (dims the row and moves it down). |
+| **✅ Checkbox** | Marks the attack as sent. |
 | **Coordinate Click** | Automatically copies the village coordinates to your clipboard. |
 | **Nowa rozpiska** | Clears all saved data and allows you to upload a new plan. |
 
