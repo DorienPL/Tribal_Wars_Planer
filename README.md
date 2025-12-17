@@ -35,7 +35,7 @@ Follow these steps to load your plan:
 | :--- | :--- |
 | **OTWÓRZ** | Opens the specific attack command in Tribal Wars. |
 | **✅ Checkbox** | Marks the attack as sent. |
-| **Coordinate Click** | Automatically copies the village coordinates to your clipboard. |
+| **Otwórz** | Automatically open needer order in Tribal Wars (remember to verify data!). |
 | **Nowa rozpiska** | Clears all saved data and allows you to upload a new plan. |
 
 > [!TIP]
